@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/Codekul2.iml" filepath="$PROJECT_DIR$/Codekul2.iml" />
+      <module fileurl="file://$PROJECT_DIR$/app/app.iml" filepath="$PROJECT_DIR$/app/app.iml" />
+      <module fileurl="file://$PROJECT_DIR$/consoleproj/consoleproj.iml" filepath="$PROJECT_DIR$/consoleproj/consoleproj.iml" />
+      <module fileurl="file://$PROJECT_DIR$/inttoword/inttoword.iml" filepath="$PROJECT_DIR$/inttoword/inttoword.iml" />
+      <module fileurl="file://$PROJECT_DIR$/login/login.iml" filepath="$PROJECT_DIR$/login/login.iml" />
+    </modules>
+  </component>
+</project>
