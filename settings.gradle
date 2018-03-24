@@ -1,1 +1,1 @@
-include ':app', ':login', ':inttoword', ':consoleproj'
+include ':app', ':loginJava', ':inttowordJava', ':consoleprojJava', ':loginkotlin', ':inttowordkotlin', ':linearlayouttryKotlinLogin', ':colorslinearlayouttry', ':relativelayoutry', ':consoleprojkotlin'

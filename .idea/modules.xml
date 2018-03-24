@@ -4,9 +4,15 @@
     <modules>
       <module fileurl="file://$PROJECT_DIR$/Codekul2.iml" filepath="$PROJECT_DIR$/Codekul2.iml" />
       <module fileurl="file://$PROJECT_DIR$/app/app.iml" filepath="$PROJECT_DIR$/app/app.iml" />
-      <module fileurl="file://$PROJECT_DIR$/consoleproj/consoleproj.iml" filepath="$PROJECT_DIR$/consoleproj/consoleproj.iml" />
-      <module fileurl="file://$PROJECT_DIR$/inttoword/inttoword.iml" filepath="$PROJECT_DIR$/inttoword/inttoword.iml" />
-      <module fileurl="file://$PROJECT_DIR$/login/login.iml" filepath="$PROJECT_DIR$/login/login.iml" />
+      <module fileurl="file://$PROJECT_DIR$/colorslinearlayouttry/colorslinearlayouttry.iml" filepath="$PROJECT_DIR$/colorslinearlayouttry/colorslinearlayouttry.iml" />
+      <module fileurl="file://$PROJECT_DIR$/consoleprojJava/consoleproj.iml" filepath="$PROJECT_DIR$/consoleprojJava/consoleproj.iml" />
+      <module fileurl="file://$PROJECT_DIR$/consoleprojkotlin/consoleprojkotlin.iml" filepath="$PROJECT_DIR$/consoleprojkotlin/consoleprojkotlin.iml" />
+      <module fileurl="file://$PROJECT_DIR$/inttowordJava/inttoword.iml" filepath="$PROJECT_DIR$/inttowordJava/inttoword.iml" />
+      <module fileurl="file://$PROJECT_DIR$/inttowordkotlin/inttowordkotlin.iml" filepath="$PROJECT_DIR$/inttowordkotlin/inttowordkotlin.iml" />
+      <module fileurl="file://$PROJECT_DIR$/linearlayouttryKotlinLogin/linearlayouttry.iml" filepath="$PROJECT_DIR$/linearlayouttryKotlinLogin/linearlayouttry.iml" />
+      <module fileurl="file://$PROJECT_DIR$/loginJava/login.iml" filepath="$PROJECT_DIR$/loginJava/login.iml" />
+      <module fileurl="file://$PROJECT_DIR$/loginkotlin/loginkotlin.iml" filepath="$PROJECT_DIR$/loginkotlin/loginkotlin.iml" />
+      <module fileurl="file://$PROJECT_DIR$/relativelayoutry/relativelayoutry.iml" filepath="$PROJECT_DIR$/relativelayoutry/relativelayoutry.iml" />
     </modules>
   </component>
 </project>

@@ -9,9 +9,15 @@
           <set>
             <option value="$PROJECT_DIR$" />
             <option value="$PROJECT_DIR$/app" />
-            <option value="$PROJECT_DIR$/consoleproj" />
-            <option value="$PROJECT_DIR$/inttoword" />
-            <option value="$PROJECT_DIR$/login" />
+            <option value="$PROJECT_DIR$/colorslinearlayouttry" />
+            <option value="$PROJECT_DIR$/consoleprojJava" />
+            <option value="$PROJECT_DIR$/consoleprojkotlin" />
+            <option value="$PROJECT_DIR$/inttowordJava" />
+            <option value="$PROJECT_DIR$/inttowordkotlin" />
+            <option value="$PROJECT_DIR$/linearlayouttryKotlinLogin" />
+            <option value="$PROJECT_DIR$/loginJava" />
+            <option value="$PROJECT_DIR$/loginkotlin" />
+            <option value="$PROJECT_DIR$/relativelayoutry" />
           </set>
         </option>
         <option name="resolveModulePerSourceSet" value="false" />
