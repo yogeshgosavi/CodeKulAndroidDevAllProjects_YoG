@@ -1,3 +1,4 @@
 <resources>
     <string name="app_name">LoginKotlin</string>
+    <string name="title_activity_whatsapp_chat_screen">WhatsappChatScreen</string>
 </resources>
