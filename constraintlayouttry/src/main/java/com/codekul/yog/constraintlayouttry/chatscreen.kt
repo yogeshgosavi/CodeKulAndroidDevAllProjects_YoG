@@ -12,7 +12,7 @@ class chatscreen : AppCompatActivity() {
         // set the top title
         if (actionBar != null) {
             actionBar.setDisplayShowTitleEnabled(false)
-        };
+        }
 
     }
 
