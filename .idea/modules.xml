@@ -5,6 +5,7 @@
       <module fileurl="file://$PROJECT_DIR$/Codekul2.iml" filepath="$PROJECT_DIR$/Codekul2.iml" />
       <module fileurl="file://$PROJECT_DIR$/app/app.iml" filepath="$PROJECT_DIR$/app/app.iml" />
       <module fileurl="file://$PROJECT_DIR$/colorslinearlayouttry/colorslinearlayouttry.iml" filepath="$PROJECT_DIR$/colorslinearlayouttry/colorslinearlayouttry.iml" />
+      <module fileurl="file://$PROJECT_DIR$/compoundlayouttryKotlin/compoundlayouttryKotlin.iml" filepath="$PROJECT_DIR$/compoundlayouttryKotlin/compoundlayouttryKotlin.iml" />
       <module fileurl="file://$PROJECT_DIR$/consoleprojJava/consoleprojJava.iml" filepath="$PROJECT_DIR$/consoleprojJava/consoleprojJava.iml" />
       <module fileurl="file://$PROJECT_DIR$/consoleprojkotlin/consoleprojkotlin.iml" filepath="$PROJECT_DIR$/consoleprojkotlin/consoleprojkotlin.iml" />
       <module fileurl="file://$PROJECT_DIR$/constraintlayouttry/constraintlayouttry.iml" filepath="$PROJECT_DIR$/constraintlayouttry/constraintlayouttry.iml" />
@@ -17,6 +18,7 @@
       <module fileurl="file://$PROJECT_DIR$/loginJava/loginJava.iml" filepath="$PROJECT_DIR$/loginJava/loginJava.iml" />
       <module fileurl="file://$PROJECT_DIR$/loginkotlin/loginkotlin.iml" filepath="$PROJECT_DIR$/loginkotlin/loginkotlin.iml" />
       <module fileurl="file://$PROJECT_DIR$/relativelayoutry/relativelayoutry.iml" filepath="$PROJECT_DIR$/relativelayoutry/relativelayoutry.iml" />
+      <module fileurl="file://$PROJECT_DIR$/shoping2interactkotlin/shoping2interactkotlin.iml" filepath="$PROJECT_DIR$/shoping2interactkotlin/shoping2interactkotlin.iml" />
     </modules>
   </component>
 </project>
