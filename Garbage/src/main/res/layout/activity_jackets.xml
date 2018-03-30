@@ -3,78 +3,76 @@
     xmlns:app="http://schemas.android.com/apk/res-auto"
     xmlns:tools="http://schemas.android.com/tools"
     android:layout_width="match_parent"
-    android:orientation="vertical"
     android:layout_height="match_parent"
-    tools:context=".ShirtActivity">
+    tools:context=".JacketsActivity"
+    android:orientation="vertical">
 
     <LinearLayout
         android:layout_width="match_parent"
         android:layout_height="match_parent"
-        android:orientation="vertical"
-        android:weightSum="1">
-
+        android:orientation="vertical">
         <TextView
-            android:id="@+id/stTshirt"
             android:layout_width="match_parent"
             android:layout_height="wrap_content"
+            android:id="@+id/drj"
             android:layout_weight="0.2"
+            android:textAlignment="center"
+            android:gravity="center"
+            android:text="DoubleRiderJacket"
+            android:textStyle="italic"
+            android:textSize="20sp"
             android:background="@color/textback"
             android:elevation="2dp"
-            android:gravity="center"
-            android:text="T-Shirt"
-            android:textAlignment="center"
-            android:textSize="20sp"
-            android:textStyle="italic" />
-
+            />
         <TextView
-            android:id="@+id/stTuxeto"
             android:layout_width="match_parent"
             android:layout_height="wrap_content"
+            android:id="@+id/bfj"
             android:layout_weight="0.2"
+            android:textAlignment="center"
+            android:gravity="center"
+            android:text="Bomber Flight Jacket"
+            android:textStyle="italic"
+            android:textSize="20sp"
             android:background="@color/textback"
             android:elevation="2dp"
-            android:gravity="center"
-            android:text="Tuxeto"
-            android:textAlignment="center"
-            android:textSize="20sp"
-            android:textStyle="italic" />
-
+            />
         <TextView
-            android:id="@+id/stPolo"
             android:layout_width="match_parent"
             android:layout_height="wrap_content"
+            android:id="@+id/mrj"
             android:layout_weight="0.2"
+            android:textAlignment="center"
+            android:gravity="center"
+            android:text="Moto Racer Jacket"
+            android:textStyle="italic"
+            android:textSize="20sp"
             android:background="@color/textback"
             android:elevation="2dp"
-            android:gravity="center"
-            android:text="Polo"
-            android:textAlignment="center"
-            android:textSize="20sp"
-            android:textStyle="italic" />
+            />
         <TextView
-            android:id="@+id/stjersey"
             android:layout_width="match_parent"
             android:layout_height="wrap_content"
+            android:id="@+id/vj"
             android:layout_weight="0.2"
+            android:textAlignment="center"
+            android:gravity="center"
+            android:text="Varsity Jacket"
+            android:textStyle="italic"
+            android:textSize="20sp"
             android:background="@color/textback"
             android:elevation="2dp"
-            android:gravity="center"
-            android:text="Jersey"
-            android:textAlignment="center"
-            android:textSize="20sp"
-            android:textStyle="italic" />
-
+            />
 
         <Button
-            android:id="@+id/btnbackShirt"
             android:layout_width="match_parent"
             android:layout_height="wrap_content"
-            android:layout_marginBottom="20dp"
+            android:id="@+id/btnbackJacket"
+            android:text="back"
             android:layout_marginTop="20dp"
-            android:text="Back"
-            android:layout_weight="0.2"/>
+            android:layout_marginBottom="20dp"
+            android:layout_weight="0.2"
+            />
     </LinearLayout>
-
-
-
+    
 </LinearLayout>

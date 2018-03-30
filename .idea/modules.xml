@@ -3,6 +3,7 @@
   <component name="ProjectModuleManager">
     <modules>
       <module fileurl="file://$PROJECT_DIR$/Codekul2.iml" filepath="$PROJECT_DIR$/Codekul2.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Garbage/Garbage.iml" filepath="$PROJECT_DIR$/Garbage/Garbage.iml" />
       <module fileurl="file://$PROJECT_DIR$/app/app.iml" filepath="$PROJECT_DIR$/app/app.iml" />
       <module fileurl="file://$PROJECT_DIR$/colorslinearlayouttry/colorslinearlayouttry.iml" filepath="$PROJECT_DIR$/colorslinearlayouttry/colorslinearlayouttry.iml" />
       <module fileurl="file://$PROJECT_DIR$/compoundlayouttryKotlin/compoundlayouttryKotlin.iml" filepath="$PROJECT_DIR$/compoundlayouttryKotlin/compoundlayouttryKotlin.iml" />
