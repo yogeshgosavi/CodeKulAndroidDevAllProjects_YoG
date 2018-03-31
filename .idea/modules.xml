@@ -20,6 +20,7 @@
       <module fileurl="file://$PROJECT_DIR$/loginkotlin/loginkotlin.iml" filepath="$PROJECT_DIR$/loginkotlin/loginkotlin.iml" />
       <module fileurl="file://$PROJECT_DIR$/relativelayoutry/relativelayoutry.iml" filepath="$PROJECT_DIR$/relativelayoutry/relativelayoutry.iml" />
       <module fileurl="file://$PROJECT_DIR$/shoping2interactkotlin/shoping2interactkotlin.iml" filepath="$PROJECT_DIR$/shoping2interactkotlin/shoping2interactkotlin.iml" />
+      <module fileurl="file://$PROJECT_DIR$/shopping2interactcomnjava/shopping2interactcomnjava.iml" filepath="$PROJECT_DIR$/shopping2interactcomnjava/shopping2interactcomnjava.iml" />
     </modules>
   </component>
 </project>
