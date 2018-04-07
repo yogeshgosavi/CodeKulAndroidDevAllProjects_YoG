@@ -17,17 +17,21 @@
             <option value="$PROJECT_DIR$/constraintlayouttry" />
             <option value="$PROJECT_DIR$/constraintlayouttry1" />
             <option value="$PROJECT_DIR$/customlistadapterkotlin" />
+            <option value="$PROJECT_DIR$/customlistjava" />
+            <option value="$PROJECT_DIR$/dynamicuicreationkotlin" />
             <option value="$PROJECT_DIR$/interactivitycomjava" />
             <option value="$PROJECT_DIR$/interactivitycomkotlin" />
             <option value="$PROJECT_DIR$/inttowordJava" />
             <option value="$PROJECT_DIR$/inttowordkotlin" />
             <option value="$PROJECT_DIR$/linearlayouttryKotlinLogin" />
+            <option value="$PROJECT_DIR$/listtryjava" />
             <option value="$PROJECT_DIR$/listtrykotlin" />
             <option value="$PROJECT_DIR$/loginJava" />
             <option value="$PROJECT_DIR$/loginkotlin" />
             <option value="$PROJECT_DIR$/relativelayoutry" />
             <option value="$PROJECT_DIR$/shoping2interactkotlin" />
             <option value="$PROJECT_DIR$/shopping2interactcomnjava" />
+            <option value="$PROJECT_DIR$/viemeasurementunit" />
           </set>
         </option>
         <option name="resolveModulePerSourceSet" value="false" />
