@@ -4,7 +4,9 @@
     <modules>
       <module fileurl="file://$PROJECT_DIR$/Codekul2.iml" filepath="$PROJECT_DIR$/Codekul2.iml" />
       <module fileurl="file://$PROJECT_DIR$/Garbage/Garbage.iml" filepath="$PROJECT_DIR$/Garbage/Garbage.iml" />
+      <module fileurl="file://$PROJECT_DIR$/animationjava/animationjava.iml" filepath="$PROJECT_DIR$/animationjava/animationjava.iml" />
       <module fileurl="file://$PROJECT_DIR$/app/app.iml" filepath="$PROJECT_DIR$/app/app.iml" />
+      <module fileurl="file://$PROJECT_DIR$/bouncybalrxajava/bouncybalrxajava.iml" filepath="$PROJECT_DIR$/bouncybalrxajava/bouncybalrxajava.iml" />
       <module fileurl="file://$PROJECT_DIR$/colorslinearlayouttry/colorslinearlayouttry.iml" filepath="$PROJECT_DIR$/colorslinearlayouttry/colorslinearlayouttry.iml" />
       <module fileurl="file://$PROJECT_DIR$/compoundlayouttryKotlin/compoundlayouttryKotlin.iml" filepath="$PROJECT_DIR$/compoundlayouttryKotlin/compoundlayouttryKotlin.iml" />
       <module fileurl="file://$PROJECT_DIR$/consoleprojJava/consoleprojJava.iml" filepath="$PROJECT_DIR$/consoleprojJava/consoleprojJava.iml" />
@@ -13,7 +15,9 @@
       <module fileurl="file://$PROJECT_DIR$/constraintlayouttry1/constraintlayouttry1.iml" filepath="$PROJECT_DIR$/constraintlayouttry1/constraintlayouttry1.iml" />
       <module fileurl="file://$PROJECT_DIR$/customlistadapterkotlin/customlistadapterkotlin.iml" filepath="$PROJECT_DIR$/customlistadapterkotlin/customlistadapterkotlin.iml" />
       <module fileurl="file://$PROJECT_DIR$/customlistjava/customlistjava.iml" filepath="$PROJECT_DIR$/customlistjava/customlistjava.iml" />
+      <module fileurl="file://$PROJECT_DIR$/customviewjava/customviewjava.iml" filepath="$PROJECT_DIR$/customviewjava/customviewjava.iml" />
       <module fileurl="file://$PROJECT_DIR$/dynamicuicreationkotlin/dynamicuicreationkotlin.iml" filepath="$PROJECT_DIR$/dynamicuicreationkotlin/dynamicuicreationkotlin.iml" />
+      <module fileurl="file://$PROJECT_DIR$/fragmentjavatry/fragmentjavatry.iml" filepath="$PROJECT_DIR$/fragmentjavatry/fragmentjavatry.iml" />
       <module fileurl="file://$PROJECT_DIR$/interactivitycomjava/interactivitycomjava.iml" filepath="$PROJECT_DIR$/interactivitycomjava/interactivitycomjava.iml" />
       <module fileurl="file://$PROJECT_DIR$/interactivitycomkotlin/interactivitycomkotlin.iml" filepath="$PROJECT_DIR$/interactivitycomkotlin/interactivitycomkotlin.iml" />
       <module fileurl="file://$PROJECT_DIR$/inttowordJava/inttowordJava.iml" filepath="$PROJECT_DIR$/inttowordJava/inttowordJava.iml" />
