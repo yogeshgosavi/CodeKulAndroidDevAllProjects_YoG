@@ -9,6 +9,8 @@
           <set>
             <option value="$PROJECT_DIR$" />
             <option value="$PROJECT_DIR$/Garbage" />
+            <option value="$PROJECT_DIR$/actlifecycleandroid" />
+            <option value="$PROJECT_DIR$/alternativeresourses" />
             <option value="$PROJECT_DIR$/animationjava" />
             <option value="$PROJECT_DIR$/app" />
             <option value="$PROJECT_DIR$/bouncybalrxajava" />
@@ -21,8 +23,10 @@
             <option value="$PROJECT_DIR$/customlistadapterkotlin" />
             <option value="$PROJECT_DIR$/customlistjava" />
             <option value="$PROJECT_DIR$/customviewjava" />
+            <option value="$PROJECT_DIR$/customviewkotlin" />
             <option value="$PROJECT_DIR$/dynamicuicreationkotlin" />
             <option value="$PROJECT_DIR$/fragmentjavatry" />
+            <option value="$PROJECT_DIR$/handlingruntimechanges" />
             <option value="$PROJECT_DIR$/interactivitycomjava" />
             <option value="$PROJECT_DIR$/interactivitycomkotlin" />
             <option value="$PROJECT_DIR$/inttowordJava" />
