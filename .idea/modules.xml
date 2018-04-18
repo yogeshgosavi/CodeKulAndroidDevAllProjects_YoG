@@ -21,6 +21,7 @@
       <module fileurl="file://$PROJECT_DIR$/customviewkotlin/customviewkotlin.iml" filepath="$PROJECT_DIR$/customviewkotlin/customviewkotlin.iml" />
       <module fileurl="file://$PROJECT_DIR$/dynamicuicreationkotlin/dynamicuicreationkotlin.iml" filepath="$PROJECT_DIR$/dynamicuicreationkotlin/dynamicuicreationkotlin.iml" />
       <module fileurl="file://$PROJECT_DIR$/fragmentjavatry/fragmentjavatry.iml" filepath="$PROJECT_DIR$/fragmentjavatry/fragmentjavatry.iml" />
+      <module fileurl="file://$PROJECT_DIR$/fragmenttrykotlin/fragmenttrykotlin.iml" filepath="$PROJECT_DIR$/fragmenttrykotlin/fragmenttrykotlin.iml" />
       <module fileurl="file://$PROJECT_DIR$/handlingruntimechanges/handlingruntimechanges.iml" filepath="$PROJECT_DIR$/handlingruntimechanges/handlingruntimechanges.iml" />
       <module fileurl="file://$PROJECT_DIR$/interactivitycomjava/interactivitycomjava.iml" filepath="$PROJECT_DIR$/interactivitycomjava/interactivitycomjava.iml" />
       <module fileurl="file://$PROJECT_DIR$/interactivitycomkotlin/interactivitycomkotlin.iml" filepath="$PROJECT_DIR$/interactivitycomkotlin/interactivitycomkotlin.iml" />
@@ -31,6 +32,7 @@
       <module fileurl="file://$PROJECT_DIR$/listtrykotlin/listtrykotlin.iml" filepath="$PROJECT_DIR$/listtrykotlin/listtrykotlin.iml" />
       <module fileurl="file://$PROJECT_DIR$/loginJava/loginJava.iml" filepath="$PROJECT_DIR$/loginJava/loginJava.iml" />
       <module fileurl="file://$PROJECT_DIR$/loginkotlin/loginkotlin.iml" filepath="$PROJECT_DIR$/loginkotlin/loginkotlin.iml" />
+      <module fileurl="file://$PROJECT_DIR$/materialsample/materialsample.iml" filepath="$PROJECT_DIR$/materialsample/materialsample.iml" />
       <module fileurl="file://$PROJECT_DIR$/relativelayoutry/relativelayoutry.iml" filepath="$PROJECT_DIR$/relativelayoutry/relativelayoutry.iml" />
       <module fileurl="file://$PROJECT_DIR$/shoping2interactkotlin/shoping2interactkotlin.iml" filepath="$PROJECT_DIR$/shoping2interactkotlin/shoping2interactkotlin.iml" />
       <module fileurl="file://$PROJECT_DIR$/shopping2interactcomnjava/shopping2interactcomnjava.iml" filepath="$PROJECT_DIR$/shopping2interactcomnjava/shopping2interactcomnjava.iml" />
