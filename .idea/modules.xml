@@ -20,6 +20,7 @@
       <module fileurl="file://$PROJECT_DIR$/customlistjava/customlistjava.iml" filepath="$PROJECT_DIR$/customlistjava/customlistjava.iml" />
       <module fileurl="file://$PROJECT_DIR$/customviewjava/customviewjava.iml" filepath="$PROJECT_DIR$/customviewjava/customviewjava.iml" />
       <module fileurl="file://$PROJECT_DIR$/customviewkotlin/customviewkotlin.iml" filepath="$PROJECT_DIR$/customviewkotlin/customviewkotlin.iml" />
+      <module fileurl="file://$PROJECT_DIR$/dualnavkotlin/dualnavkotlin.iml" filepath="$PROJECT_DIR$/dualnavkotlin/dualnavkotlin.iml" />
       <module fileurl="file://$PROJECT_DIR$/dynamicuicreationkotlin/dynamicuicreationkotlin.iml" filepath="$PROJECT_DIR$/dynamicuicreationkotlin/dynamicuicreationkotlin.iml" />
       <module fileurl="file://$PROJECT_DIR$/fragmentjavatry/fragmentjavatry.iml" filepath="$PROJECT_DIR$/fragmentjavatry/fragmentjavatry.iml" />
       <module fileurl="file://$PROJECT_DIR$/fragmenttrykotlin/fragmenttrykotlin.iml" filepath="$PROJECT_DIR$/fragmenttrykotlin/fragmenttrykotlin.iml" />
@@ -38,6 +39,7 @@
       <module fileurl="file://$PROJECT_DIR$/relativelayoutry/relativelayoutry.iml" filepath="$PROJECT_DIR$/relativelayoutry/relativelayoutry.iml" />
       <module fileurl="file://$PROJECT_DIR$/shoping2interactkotlin/shoping2interactkotlin.iml" filepath="$PROJECT_DIR$/shoping2interactkotlin/shoping2interactkotlin.iml" />
       <module fileurl="file://$PROJECT_DIR$/shopping2interactcomnjava/shopping2interactcomnjava.iml" filepath="$PROJECT_DIR$/shopping2interactcomnjava/shopping2interactcomnjava.iml" />
+      <module fileurl="file://$PROJECT_DIR$/tabbedactwtnavdrawerkotlin/tabbedactwtnavdrawerkotlin.iml" filepath="$PROJECT_DIR$/tabbedactwtnavdrawerkotlin/tabbedactwtnavdrawerkotlin.iml" />
       <module fileurl="file://$PROJECT_DIR$/viemeasurementunit/viemeasurementunit.iml" filepath="$PROJECT_DIR$/viemeasurementunit/viemeasurementunit.iml" />
     </modules>
   </component>
