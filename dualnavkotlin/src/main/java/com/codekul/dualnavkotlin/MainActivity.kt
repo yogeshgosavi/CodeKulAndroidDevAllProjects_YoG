@@ -93,7 +93,7 @@ class MainActivity : AppCompatActivity(), NavigationView.OnNavigationItemSelecte
 
         }
 
-        Toast.makeText(this@MainActivity, "Handle from navigation right", Toast.LENGTH_SHORT).show()
+        Toast.makeText(this@MainActivity, "Handle from navigation left", Toast.LENGTH_SHORT).show()
         val drawer = this.findViewById(R.id.drawer_layout) as DrawerLayout
         drawer.closeDrawer(GravityCompat.START)
         return true

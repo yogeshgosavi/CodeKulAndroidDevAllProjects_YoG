@@ -22,6 +22,7 @@
         app:headerLayout="@layout/nav_header_main"
         app:menu="@menu/activity_main_drawer" />
 
+
     <android.support.design.widget.NavigationView
         android:id="@+id/nav_view_right"
         android:layout_width="wrap_content"
