@@ -20,6 +20,7 @@ import android.view.MenuItem
 import android.view.View
 import android.view.ViewGroup
 import android.widget.TextView
+import android.widget.Toast
 
 import kotlinx.android.synthetic.main.activity_main.*
 import kotlinx.android.synthetic.main.fragment_main.view.*
@@ -71,6 +72,10 @@ class MainActivity : AppCompatActivity(), NavigationView.OnNavigationItemSelecte
         val navigationView = findViewById<View>(R.id.nav_view) as NavigationView
         navigationView.setNavigationItemSelectedListener(this)
 
+
+        //for right nav bar
+
+
     }
 
 
@@ -86,8 +91,10 @@ class MainActivity : AppCompatActivity(), NavigationView.OnNavigationItemSelecte
         // as you specify a parent activity in AndroidManifest.xml.
         val id = item.itemId
 
-
+        val drawer = findViewById(R.id.drawer_layout) as DrawerLayout
         return if (id == R.id.action_settings) {
+            drawer.openDrawer(GravityCompat.END)
+
             true
         } else super.onOptionsItemSelected(item)
 
@@ -99,7 +106,7 @@ class MainActivity : AppCompatActivity(), NavigationView.OnNavigationItemSelecte
     class PlaceholderFragment : Fragment() {
 
         override fun onCreateView(inflater: LayoutInflater, container: ViewGroup?, savedInstanceState: Bundle?): View? {
-            val rootView = inflater!!.inflate(R.layout.fragment_main, container, false)
+            val rootView = inflater.inflate(R.layout.fragment_main, container, false)
             val textView = rootView.findViewById<View>(R.id.section_label) as TextView
             textView.text = getString(R.string.section_format, arguments!!.getInt(ARG_SECTION_NUMBER))
             return rootView
@@ -127,9 +134,11 @@ class MainActivity : AppCompatActivity(), NavigationView.OnNavigationItemSelecte
     }
 
     override fun onBackPressed() {
-        val drawer = findViewById<View>(R.id.drawer_layout) as DrawerLayout
+        val drawer = findViewById<DrawerLayout>(R.id.drawer_layout)
         if (drawer.isDrawerOpen(GravityCompat.START)) {
             drawer.closeDrawer(GravityCompat.START)
+        } else if (drawer.isDrawerOpen(GravityCompat.END)) {
+            drawer.closeDrawer(GravityCompat.END)
         } else {
             super.onBackPressed()
         }
@@ -158,7 +167,39 @@ class MainActivity : AppCompatActivity(), NavigationView.OnNavigationItemSelecte
         drawer.closeDrawer(GravityCompat.START)
         return true
     }
+    /**
+     * this method used for displaying the right navigation drawer
+     */
+    private fun displayRightNavigation() {
+        val navigationViewRight = findViewById<NavigationView>(R.id.nav_view1)
+        navigationViewRight.setNavigationItemSelectedListener { item ->
+            // Handle navigation view item clicks here.
+            val id = item.itemId
 
+            if (id == R.id.nav_camera) {
+
+                // Handle the camera action
+            } else if (id == R.id.nav_gallery) {
+
+
+            } else if (id == R.id.nav_slideshow) {
+
+            } else if (id == R.id.nav_manage) {
+
+            } else if (id == R.id.nav_share) {
+
+
+            } else if (id == R.id.nav_send) {
+
+
+            }
+
+            Toast.makeText(this@MainActivity, "Handle from navigation right", Toast.LENGTH_SHORT).show()
+            val drawer = findViewById<DrawerLayout>(R.id.drawer_layout)
+            drawer.closeDrawer(GravityCompat.END)
+            true
+        }
+    }
     /**
      * A [FragmentPagerAdapter] that returns a fragment corresponding to
      * one of the sections/tabs/pages.
