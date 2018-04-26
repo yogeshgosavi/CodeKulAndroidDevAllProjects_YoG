@@ -69,28 +69,15 @@ class MainActivity : AppCompatActivity(), NavigationView.OnNavigationItemSelecte
         // Handle navigation view item clicks here.
         val id = item.itemId
 
-        if (id == R.id.nav_camera) {
-            loadFrag(SelectedFragment.create((R.drawable.ic_menu_camera)))
+        when (id) {
+            R.id.nav_camera -> loadFrag(SelectedFragment.create((R.drawable.ic_menu_camera)))
 
-            // Handle the camera action
-        } else if (id == R.id.nav_gallery) {
-            loadFrag(SelectedFragment.create((R.drawable.ic_menu_gallery)))
-
-
-        } else if (id == R.id.nav_slideshow) {
-            loadFrag(SelectedFragment.create((R.drawable.ic_menu_slideshow)))
-
-        } else if (id == R.id.nav_manage) {
-            loadFrag(SelectedFragment.create((R.drawable.ic_menu_manage)))
-
-        } else if (id == R.id.nav_share) {
-            loadFrag(SelectedFragment.create((R.drawable.ic_menu_share)))
-
-
-        } else if (id == R.id.nav_send) {
-            loadFrag(SelectedFragment.create((R.drawable.ic_menu_send)))
-
-
+        // Handle the camera action
+            R.id.nav_gallery -> loadFrag(SelectedFragment.create((R.drawable.ic_menu_gallery)))
+            R.id.nav_slideshow -> loadFrag(SelectedFragment.create((R.drawable.ic_menu_slideshow)))
+            R.id.nav_manage -> loadFrag(SelectedFragment.create((R.drawable.ic_menu_manage)))
+            R.id.nav_share -> loadFrag(SelectedFragment.create((R.drawable.ic_menu_share)))
+            R.id.nav_send -> loadFrag(SelectedFragment.create((R.drawable.ic_menu_send)))
         }
 
         Toast.makeText(this@MainActivity, "Handle from navigation left", Toast.LENGTH_SHORT).show()
@@ -108,28 +95,15 @@ class MainActivity : AppCompatActivity(), NavigationView.OnNavigationItemSelecte
             // Handle navigation view item clicks here.
             val id = item.itemId
 
-            if (id == R.id.nav_camera) {
-                loadFrag(SelectedFragment.create((R.drawable.ic_menu_camera)))
+            when (id) {
+                R.id.nav_camera -> loadFrag(SelectedFragment.create((R.drawable.ic_menu_camera)))
 
-                // Handle the camera action
-            } else if (id == R.id.nav_gallery) {
-                loadFrag(SelectedFragment.create((R.drawable.ic_menu_gallery)))
-
-
-            } else if (id == R.id.nav_slideshow) {
-                loadFrag(SelectedFragment.create((R.drawable.ic_menu_slideshow)))
-
-            } else if (id == R.id.nav_manage) {
-                loadFrag(SelectedFragment.create((R.drawable.ic_menu_manage)))
-
-            } else if (id == R.id.nav_share) {
-                loadFrag(SelectedFragment.create((R.drawable.ic_menu_share)))
-
-
-            } else if (id == R.id.nav_send) {
-                loadFrag(SelectedFragment.create((R.drawable.ic_menu_send)))
-
-
+            // Handle the camera action
+                R.id.nav_gallery -> loadFrag(SelectedFragment.create((R.drawable.ic_menu_gallery)))
+                R.id.nav_slideshow -> loadFrag(SelectedFragment.create((R.drawable.ic_menu_slideshow)))
+                R.id.nav_manage -> loadFrag(SelectedFragment.create((R.drawable.ic_menu_manage)))
+                R.id.nav_share -> loadFrag(SelectedFragment.create((R.drawable.ic_menu_share)))
+                R.id.nav_send -> loadFrag(SelectedFragment.create((R.drawable.ic_menu_send)))
             }
 
             Toast.makeText(this@MainActivity, "Handle from navigation right", Toast.LENGTH_SHORT).show()
