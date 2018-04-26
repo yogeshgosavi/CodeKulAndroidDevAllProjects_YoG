@@ -2,6 +2,7 @@
 <project version="4">
   <component name="ProjectModuleManager">
     <modules>
+      <module fileurl="file://$PROJECT_DIR$/BroadCastReceiversJAVA/BroadCastReceiversJAVA.iml" filepath="$PROJECT_DIR$/BroadCastReceiversJAVA/BroadCastReceiversJAVA.iml" />
       <module fileurl="file://$PROJECT_DIR$/Codekul2.iml" filepath="$PROJECT_DIR$/Codekul2.iml" />
       <module fileurl="file://$PROJECT_DIR$/Garbage/Garbage.iml" filepath="$PROJECT_DIR$/Garbage/Garbage.iml" />
       <module fileurl="file://$PROJECT_DIR$/actlifecycleandroid/actlifecycleandroid.iml" filepath="$PROJECT_DIR$/actlifecycleandroid/actlifecycleandroid.iml" />
@@ -26,6 +27,7 @@
       <module fileurl="file://$PROJECT_DIR$/fragmenttrykotlin/fragmenttrykotlin.iml" filepath="$PROJECT_DIR$/fragmenttrykotlin/fragmenttrykotlin.iml" />
       <module fileurl="file://$PROJECT_DIR$/gridlayoutjava/gridlayoutjava.iml" filepath="$PROJECT_DIR$/gridlayoutjava/gridlayoutjava.iml" />
       <module fileurl="file://$PROJECT_DIR$/handlingruntimechanges/handlingruntimechanges.iml" filepath="$PROJECT_DIR$/handlingruntimechanges/handlingruntimechanges.iml" />
+      <module fileurl="file://$PROJECT_DIR$/intentfiltersava/intentfiltersava.iml" filepath="$PROJECT_DIR$/intentfiltersava/intentfiltersava.iml" />
       <module fileurl="file://$PROJECT_DIR$/interactivitycomjava/interactivitycomjava.iml" filepath="$PROJECT_DIR$/interactivitycomjava/interactivitycomjava.iml" />
       <module fileurl="file://$PROJECT_DIR$/interactivitycomkotlin/interactivitycomkotlin.iml" filepath="$PROJECT_DIR$/interactivitycomkotlin/interactivitycomkotlin.iml" />
       <module fileurl="file://$PROJECT_DIR$/inttowordJava/inttowordJava.iml" filepath="$PROJECT_DIR$/inttowordJava/inttowordJava.iml" />

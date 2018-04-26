@@ -8,6 +8,7 @@
         <option name="modules">
           <set>
             <option value="$PROJECT_DIR$" />
+            <option value="$PROJECT_DIR$/BroadCastReceiversJAVA" />
             <option value="$PROJECT_DIR$/Garbage" />
             <option value="$PROJECT_DIR$/actlifecycleandroid" />
             <option value="$PROJECT_DIR$/alternativeresourses" />
@@ -31,6 +32,7 @@
             <option value="$PROJECT_DIR$/fragmenttrykotlin" />
             <option value="$PROJECT_DIR$/gridlayoutjava" />
             <option value="$PROJECT_DIR$/handlingruntimechanges" />
+            <option value="$PROJECT_DIR$/intentfiltersava" />
             <option value="$PROJECT_DIR$/interactivitycomjava" />
             <option value="$PROJECT_DIR$/interactivitycomkotlin" />
             <option value="$PROJECT_DIR$/inttowordJava" />
