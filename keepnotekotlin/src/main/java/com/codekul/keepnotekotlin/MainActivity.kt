@@ -4,6 +4,7 @@ import android.content.Context
 import android.support.v7.app.AppCompatActivity
 import android.os.Bundle
 import android.util.Log
+import android.widget.Toast
 import kotlinx.android.synthetic.main.activity_main.*
 import java.io.File
 
@@ -20,12 +21,15 @@ class MainActivity : AppCompatActivity() {
             retrieve(file_name)
         }
         btnshowNote.setOnClickListener {
-
+          //  retrieve("myname")
+            filesDir.list().forEach {
+                Log.i("@codekul","$it")
+            }
         }
 
-        filesDir.list().forEach {
-            Log.i("@codekul","$it")
-        }
+       btncheck.setOnClickListener {
+           delete("hey")
+       }
 
     }
 
@@ -41,6 +45,7 @@ class MainActivity : AppCompatActivity() {
         val dt = isp.bufferedReader().use {
             it.readLine()
         }
+        Toast.makeText(this,"$filename : $dt",Toast.LENGTH_LONG).show()
         Log.i("@Codekul", "data Stored in $filename.txt is $dt")
     }
 
@@ -55,7 +60,7 @@ class MainActivity : AppCompatActivity() {
     }
 
     fun delete(filename: String){
-        var file = File("$filename.txt")
+        var file = File("$filesDir/$filename.txt")
         file.delete()
     }
 }
