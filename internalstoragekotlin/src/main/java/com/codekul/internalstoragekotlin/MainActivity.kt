@@ -4,7 +4,7 @@ import android.content.Context
 import android.support.v7.app.AppCompatActivity
 import android.os.Bundle
 import android.util.Log
-import kotlinx.android.synthetic.main.activity_main.*
+import com.codekul.internalstoragekotlin.R.id.txt
 class MainActivity : AppCompatActivity() {
 
 
@@ -15,9 +15,9 @@ class MainActivity : AppCompatActivity() {
         setContentView(R.layout.activity_main)
 
         Log.i("@Codekul","Internal path = $filesDir")
-        txt.text = filesDir.toString()
+      //  txt.text = filesDir.toString()
         Log.i("@Codekul","cache path = $cacheDir")
-        txt.append(cacheDir.toString())
+      //  txt.append(cacheDir.toString())
 
         store()
         retrieve()
