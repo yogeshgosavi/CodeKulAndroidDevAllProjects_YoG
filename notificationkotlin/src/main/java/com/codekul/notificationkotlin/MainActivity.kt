@@ -8,6 +8,7 @@ import android.content.Intent
 import android.os.Build
 import android.support.v7.app.AppCompatActivity
 import android.os.Bundle
+import android.support.annotation.RequiresApi
 import kotlinx.android.synthetic.main.activity_main.*
 
 class MainActivity : AppCompatActivity() {
@@ -20,35 +21,40 @@ class MainActivity : AppCompatActivity() {
         }
     }
 
+    @RequiresApi(Build.VERSION_CODES.O)
     fun showNotification(){
         val mngr = getSystemService(Context.NOTIFICATION_SERVICE ) as NotificationManager
-        if (Build.VERSION.SDK_INT >= Build.VERSION_CODES.O) {
-            mngr.notify(123, Notification.Builder(this,"123")
+        val ntfn =
+                if (Build.VERSION.SDK_INT >= Build.VERSION_CODES.O) {
+                    Notification.Builder(this,"123")
+                           .setTicker("THIS IS SAMPLE NOTIFICATION")
+                           .setContentTitle("TITLLE")
+                           .setContentText("This is Sample Notification")
+                           .setSmallIcon(R.mipmap.ic_launcher_round)
+                           .setWhen(System.currentTimeMillis())
+                           .setDefaults(Notification.DEFAULT_ALL)
+                           .setContentIntent(PendingIntent.getActivity(this,
+                                   123,
+                                   Intent(MainActivity@this,SecondActivity::class.java),
+                                   PendingIntent.FLAG_UPDATE_CURRENT))
+                           .build()
+
+    }else{
+             Notification.Builder(this)
                     .setTicker("THIS IS SAMPLE NOTIFICATION")
-                    .setContentTitle("TITLLE")
-                    .setContentText("This is Sample Notification")
+//                    .setContentTitle("TITLLE")
+//                    .setContentText("This is Sample Notification")
                     .setSmallIcon(R.mipmap.ic_launcher_round)
-                    .setWhen(System.currentTimeMillis())
                     .setDefaults(Notification.DEFAULT_ALL)
                     .setContentIntent(PendingIntent.getActivity(this,
                             123,
                             Intent(MainActivity@this,SecondActivity::class.java),
                             PendingIntent.FLAG_UPDATE_CURRENT))
-                    .build())
-        }else{
-            mngr.notify(123, Notification.Builder(this)
-                    .setTicker("THIS IS SAMPLE NOTIFICATION")
-                    .setContentTitle("TITLLE")
-                    .setContentText("This is Sample Notification")
-                    .setSmallIcon(R.mipmap.ic_launcher_round)
-                    .setDefaults(Notification.DEFAULT_ALL)
-                    .setContentIntent(PendingIntent.getActivity(this,
-                            123,
-                            Intent(MainActivity@this,SecondActivity::class.java),
-                            PendingIntent.FLAG_UPDATE_CURRENT))
-                            .build())
+                            .build()
 
         }
+        mngr.notify(123,ntfn)
+
 
     }
 }
