@@ -11,6 +11,7 @@
       <module fileurl="file://$PROJECT_DIR$/app/app.iml" filepath="$PROJECT_DIR$/app/app.iml" />
       <module fileurl="file://$PROJECT_DIR$/assets/assets.iml" filepath="$PROJECT_DIR$/assets/assets.iml" />
       <module fileurl="file://$PROJECT_DIR$/bouncybalrxajava/bouncybalrxajava.iml" filepath="$PROJECT_DIR$/bouncybalrxajava/bouncybalrxajava.iml" />
+      <module fileurl="file://$PROJECT_DIR$/broadcastreceiverskotlin/broadcastreceiverskotlin.iml" filepath="$PROJECT_DIR$/broadcastreceiverskotlin/broadcastreceiverskotlin.iml" />
       <module fileurl="file://$PROJECT_DIR$/colorslinearlayouttry/colorslinearlayouttry.iml" filepath="$PROJECT_DIR$/colorslinearlayouttry/colorslinearlayouttry.iml" />
       <module fileurl="file://$PROJECT_DIR$/compoundlayouttryKotlin/compoundlayouttryKotlin.iml" filepath="$PROJECT_DIR$/compoundlayouttryKotlin/compoundlayouttryKotlin.iml" />
       <module fileurl="file://$PROJECT_DIR$/consoleprojJava/consoleprojJava.iml" filepath="$PROJECT_DIR$/consoleprojJava/consoleprojJava.iml" />

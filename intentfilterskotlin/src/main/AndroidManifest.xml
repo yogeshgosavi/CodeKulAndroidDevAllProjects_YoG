@@ -2,6 +2,8 @@
 <manifest xmlns:android="http://schemas.android.com/apk/res/android"
     package="com.codekul.intentfilterskotlin">
 
+    <uses-permission android:name="android.permission.CALL_PHONE" />
+
     <application
         android:allowBackup="true"
         android:icon="@mipmap/ic_launcher"
@@ -14,6 +16,25 @@
                 <action android:name="android.intent.action.MAIN" />
 
                 <category android:name="android.intent.category.LAUNCHER" />
+            </intent-filter>
+        </activity>
+        <activity
+            android:name=".NewsActivity"
+            android:parentActivityName=".MainActivity">
+            <intent-filter>
+                <action android:name="com.codekul.intentfilterskotlin.NEWS" />
+
+                <category android:name="android.intent.category.DEFAULT" />
+                <data android:scheme="http"/>
+            </intent-filter>
+        </activity>
+        <activity android:name=".SportActivity">
+            <intent-filter>
+                <!--<action android:name="com.codekul.intentfilterskotlin.NEWS" />-->
+                <action android:name="com.codekul.intentfilterskotlin.SPORTS" />
+                <category android:name="com.codekul.intentfilterskotlin.category.CRICKET" />
+
+                <category android:name="android.intent.category.DEFAULT" />
             </intent-filter>
         </activity>
     </application>
