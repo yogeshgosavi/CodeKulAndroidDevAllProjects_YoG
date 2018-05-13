@@ -4,8 +4,8 @@
     <modules>
       <module fileurl="file://$PROJECT_DIR$/BroadCastReceiversJAVA/BroadCastReceiversJAVA.iml" filepath="$PROJECT_DIR$/BroadCastReceiversJAVA/BroadCastReceiversJAVA.iml" />
       <module fileurl="file://$PROJECT_DIR$/Codekul2.iml" filepath="$PROJECT_DIR$/Codekul2.iml" />
-      <module fileurl="file://$PROJECT_DIR$/Garbage/Garbage.iml" filepath="$PROJECT_DIR$/Garbage/Garbage.iml" />
       <module fileurl="file://$PROJECT_DIR$/actlifecycleandroid/actlifecycleandroid.iml" filepath="$PROJECT_DIR$/actlifecycleandroid/actlifecycleandroid.iml" />
+      <module fileurl="file://$PROJECT_DIR$/alerts_and_dialogsjava/alerts_and_dialogsjava.iml" filepath="$PROJECT_DIR$/alerts_and_dialogsjava/alerts_and_dialogsjava.iml" />
       <module fileurl="file://$PROJECT_DIR$/alternativeresourses/alternativeresourses.iml" filepath="$PROJECT_DIR$/alternativeresourses/alternativeresourses.iml" />
       <module fileurl="file://$PROJECT_DIR$/animationjava/animationjava.iml" filepath="$PROJECT_DIR$/animationjava/animationjava.iml" />
       <module fileurl="file://$PROJECT_DIR$/app/app.iml" filepath="$PROJECT_DIR$/app/app.iml" />
@@ -44,8 +44,11 @@
       <module fileurl="file://$PROJECT_DIR$/loginkotlin/loginkotlin.iml" filepath="$PROJECT_DIR$/loginkotlin/loginkotlin.iml" />
       <module fileurl="file://$PROJECT_DIR$/materialsample/materialsample.iml" filepath="$PROJECT_DIR$/materialsample/materialsample.iml" />
       <module fileurl="file://$PROJECT_DIR$/navdrawerkotlin/navdrawerkotlin.iml" filepath="$PROJECT_DIR$/navdrawerkotlin/navdrawerkotlin.iml" />
+      <module fileurl="file://$PROJECT_DIR$/notificationjava/notificationjava.iml" filepath="$PROJECT_DIR$/notificationjava/notificationjava.iml" />
       <module fileurl="file://$PROJECT_DIR$/notificationkotlin/notificationkotlin.iml" filepath="$PROJECT_DIR$/notificationkotlin/notificationkotlin.iml" />
       <module fileurl="file://$PROJECT_DIR$/relativelayoutry/relativelayoutry.iml" filepath="$PROJECT_DIR$/relativelayoutry/relativelayoutry.iml" />
+      <module fileurl="file://$PROJECT_DIR$/services&amp;media/services&amp;media.iml" filepath="$PROJECT_DIR$/services&amp;media/services&amp;media.iml" />
+      <module fileurl="file://$PROJECT_DIR$/servicesjava/servicesjava.iml" filepath="$PROJECT_DIR$/servicesjava/servicesjava.iml" />
       <module fileurl="file://$PROJECT_DIR$/sharedprefkotlin/sharedprefkotlin.iml" filepath="$PROJECT_DIR$/sharedprefkotlin/sharedprefkotlin.iml" />
       <module fileurl="file://$PROJECT_DIR$/shoping2interactkotlin/shoping2interactkotlin.iml" filepath="$PROJECT_DIR$/shoping2interactkotlin/shoping2interactkotlin.iml" />
       <module fileurl="file://$PROJECT_DIR$/shopping2interactcomnjava/shopping2interactcomnjava.iml" filepath="$PROJECT_DIR$/shopping2interactcomnjava/shopping2interactcomnjava.iml" />
