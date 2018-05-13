@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="utf-8"?>
 <manifest xmlns:android="http://schemas.android.com/apk/res/android"
-    package="com.codekul.shopinginteractkotlin">
+    package="com.codekul.alerts_and_dialogsjava">
 
     <application
         android:allowBackup="true"
@@ -16,18 +16,6 @@
                 <category android:name="android.intent.category.LAUNCHER" />
             </intent-filter>
         </activity>
-        <activity android:name=".JeansActivity"
-            android:label="Jeans"
-            android:parentActivityName=".MainActivity"/>
-        <activity android:name=".ShirtsActivity"
-            android:label="Shirts"
-            android:parentActivityName=".MainActivity"/>
-        <activity android:name=".JacketsActivity"
-            android:label="Jackets"
-            android:parentActivityName=".MainActivity"/>
-        <activity android:name=".CartActivity"
-            android:label="cart Information"
-            android:parentActivityName=".MainActivity"></activity>
     </application>
 
 </manifest>
