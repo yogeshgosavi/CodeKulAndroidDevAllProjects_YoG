@@ -1,4 +1,4 @@
-package com.codekul.shopinginteractkotlin
+package com.codekul.servicesmedia
 
 import org.junit.Test
 
