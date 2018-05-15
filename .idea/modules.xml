@@ -25,6 +25,7 @@
       <module fileurl="file://$PROJECT_DIR$/dialogskotlin/dialogskotlin.iml" filepath="$PROJECT_DIR$/dialogskotlin/dialogskotlin.iml" />
       <module fileurl="file://$PROJECT_DIR$/dualnavkotlin/dualnavkotlin.iml" filepath="$PROJECT_DIR$/dualnavkotlin/dualnavkotlin.iml" />
       <module fileurl="file://$PROJECT_DIR$/dynamicuicreationkotlin/dynamicuicreationkotlin.iml" filepath="$PROJECT_DIR$/dynamicuicreationkotlin/dynamicuicreationkotlin.iml" />
+      <module fileurl="file://$PROJECT_DIR$/externalstoragekotlin/externalstoragekotlin.iml" filepath="$PROJECT_DIR$/externalstoragekotlin/externalstoragekotlin.iml" />
       <module fileurl="file://$PROJECT_DIR$/fragmentjavatry/fragmentjavatry.iml" filepath="$PROJECT_DIR$/fragmentjavatry/fragmentjavatry.iml" />
       <module fileurl="file://$PROJECT_DIR$/fragmenttrykotlin/fragmenttrykotlin.iml" filepath="$PROJECT_DIR$/fragmenttrykotlin/fragmenttrykotlin.iml" />
       <module fileurl="file://$PROJECT_DIR$/gridlayoutjava/gridlayoutjava.iml" filepath="$PROJECT_DIR$/gridlayoutjava/gridlayoutjava.iml" />
@@ -52,6 +53,7 @@
       <module fileurl="file://$PROJECT_DIR$/sharedprefkotlin/sharedprefkotlin.iml" filepath="$PROJECT_DIR$/sharedprefkotlin/sharedprefkotlin.iml" />
       <module fileurl="file://$PROJECT_DIR$/shoping2interactkotlin/shoping2interactkotlin.iml" filepath="$PROJECT_DIR$/shoping2interactkotlin/shoping2interactkotlin.iml" />
       <module fileurl="file://$PROJECT_DIR$/shopping2interactcomnjava/shopping2interactcomnjava.iml" filepath="$PROJECT_DIR$/shopping2interactcomnjava/shopping2interactcomnjava.iml" />
+      <module fileurl="file://$PROJECT_DIR$/sqliteroompersistentlibkotlin/sqliteroompersistentlibkotlin.iml" filepath="$PROJECT_DIR$/sqliteroompersistentlibkotlin/sqliteroompersistentlibkotlin.iml" />
       <module fileurl="file://$PROJECT_DIR$/tabbedactwtnavdrawerkotlin/tabbedactwtnavdrawerkotlin.iml" filepath="$PROJECT_DIR$/tabbedactwtnavdrawerkotlin/tabbedactwtnavdrawerkotlin.iml" />
       <module fileurl="file://$PROJECT_DIR$/viemeasurementunit/viemeasurementunit.iml" filepath="$PROJECT_DIR$/viemeasurementunit/viemeasurementunit.iml" />
     </modules>

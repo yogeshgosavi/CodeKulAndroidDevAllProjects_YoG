@@ -9,7 +9,6 @@
           <set>
             <option value="$PROJECT_DIR$" />
             <option value="$PROJECT_DIR$/BroadCastReceiversJAVA" />
-            <option value="$PROJECT_DIR$/Garbage" />
             <option value="$PROJECT_DIR$/actlifecycleandroid" />
             <option value="$PROJECT_DIR$/alerts_and_dialogsjava" />
             <option value="$PROJECT_DIR$/alternativeresourses" />
@@ -31,6 +30,7 @@
             <option value="$PROJECT_DIR$/dialogskotlin" />
             <option value="$PROJECT_DIR$/dualnavkotlin" />
             <option value="$PROJECT_DIR$/dynamicuicreationkotlin" />
+            <option value="$PROJECT_DIR$/externalstoragekotlin" />
             <option value="$PROJECT_DIR$/fragmentjavatry" />
             <option value="$PROJECT_DIR$/fragmenttrykotlin" />
             <option value="$PROJECT_DIR$/gridlayoutjava" />
@@ -58,6 +58,7 @@
             <option value="$PROJECT_DIR$/sharedprefkotlin" />
             <option value="$PROJECT_DIR$/shoping2interactkotlin" />
             <option value="$PROJECT_DIR$/shopping2interactcomnjava" />
+            <option value="$PROJECT_DIR$/sqliteroompersistentlibkotlin" />
             <option value="$PROJECT_DIR$/tabbedactwtnavdrawerkotlin" />
             <option value="$PROJECT_DIR$/viemeasurementunit" />
           </set>
