@@ -23,6 +23,8 @@
             <option value="$PROJECT_DIR$/consoleprojkotlin" />
             <option value="$PROJECT_DIR$/constraintlayouttry" />
             <option value="$PROJECT_DIR$/constraintlayouttry1" />
+            <option value="$PROJECT_DIR$/contentproviderskotlin" />
+            <option value="$PROJECT_DIR$/cusromcontentproviderkotlin" />
             <option value="$PROJECT_DIR$/customlistadapterkotlin" />
             <option value="$PROJECT_DIR$/customlistjava" />
             <option value="$PROJECT_DIR$/customviewjava" />
@@ -59,8 +61,10 @@
             <option value="$PROJECT_DIR$/shoping2interactkotlin" />
             <option value="$PROJECT_DIR$/shopping2interactcomnjava" />
             <option value="$PROJECT_DIR$/sqliteroompersistentlibkotlin" />
+            <option value="$PROJECT_DIR$/sqllitejava" />
             <option value="$PROJECT_DIR$/tabbedactwtnavdrawerkotlin" />
             <option value="$PROJECT_DIR$/viemeasurementunit" />
+            <option value="$PROJECT_DIR$/webservicesjava" />
           </set>
         </option>
         <option name="resolveModulePerSourceSet" value="false" />
