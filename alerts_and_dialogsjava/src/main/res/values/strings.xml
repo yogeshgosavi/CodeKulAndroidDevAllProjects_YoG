@@ -1,3 +1,9 @@
 <resources>
     <string name="app_name">Alerts_and_DialogsJAVA</string>
+
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="btnOkay">OK</string>
+    <string name="edtUserName">Username</string>
+
 </resources>
