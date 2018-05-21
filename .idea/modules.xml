@@ -20,6 +20,8 @@
       <module fileurl="file://$PROJECT_DIR$/constraintlayouttry1/constraintlayouttry1.iml" filepath="$PROJECT_DIR$/constraintlayouttry1/constraintlayouttry1.iml" />
       <module fileurl="file://$PROJECT_DIR$/contentproviderskotlin/contentproviderskotlin.iml" filepath="$PROJECT_DIR$/contentproviderskotlin/contentproviderskotlin.iml" />
       <module fileurl="file://$PROJECT_DIR$/cusromcontentproviderkotlin/cusromcontentproviderkotlin.iml" filepath="$PROJECT_DIR$/cusromcontentproviderkotlin/cusromcontentproviderkotlin.iml" />
+      <module fileurl="file://$PROJECT_DIR$/customcontentprovider/customcontentprovider.iml" filepath="$PROJECT_DIR$/customcontentprovider/customcontentprovider.iml" />
+      <module fileurl="file://$PROJECT_DIR$/customcontentprovidersql/customcontentprovidersql.iml" filepath="$PROJECT_DIR$/customcontentprovidersql/customcontentprovidersql.iml" />
       <module fileurl="file://$PROJECT_DIR$/customlistadapterkotlin/customlistadapterkotlin.iml" filepath="$PROJECT_DIR$/customlistadapterkotlin/customlistadapterkotlin.iml" />
       <module fileurl="file://$PROJECT_DIR$/customlistjava/customlistjava.iml" filepath="$PROJECT_DIR$/customlistjava/customlistjava.iml" />
       <module fileurl="file://$PROJECT_DIR$/customviewjava/customviewjava.iml" filepath="$PROJECT_DIR$/customviewjava/customviewjava.iml" />
@@ -39,6 +41,7 @@
       <module fileurl="file://$PROJECT_DIR$/internalstoragekotlin/internalstoragekotlin.iml" filepath="$PROJECT_DIR$/internalstoragekotlin/internalstoragekotlin.iml" />
       <module fileurl="file://$PROJECT_DIR$/inttowordJava/inttowordJava.iml" filepath="$PROJECT_DIR$/inttowordJava/inttowordJava.iml" />
       <module fileurl="file://$PROJECT_DIR$/inttowordkotlin/inttowordkotlin.iml" filepath="$PROJECT_DIR$/inttowordkotlin/inttowordkotlin.iml" />
+      <module fileurl="file://$PROJECT_DIR$/jsconparsingkotlin/jsconparsingkotlin.iml" filepath="$PROJECT_DIR$/jsconparsingkotlin/jsconparsingkotlin.iml" />
       <module fileurl="file://$PROJECT_DIR$/keepnotekotlin/keepnotekotlin.iml" filepath="$PROJECT_DIR$/keepnotekotlin/keepnotekotlin.iml" />
       <module fileurl="file://$PROJECT_DIR$/linearlayouttryKotlinLogin/linearlayouttryKotlinLogin.iml" filepath="$PROJECT_DIR$/linearlayouttryKotlinLogin/linearlayouttryKotlinLogin.iml" />
       <module fileurl="file://$PROJECT_DIR$/listtryjava/listtryjava.iml" filepath="$PROJECT_DIR$/listtryjava/listtryjava.iml" />

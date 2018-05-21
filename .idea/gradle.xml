@@ -25,6 +25,8 @@
             <option value="$PROJECT_DIR$/constraintlayouttry1" />
             <option value="$PROJECT_DIR$/contentproviderskotlin" />
             <option value="$PROJECT_DIR$/cusromcontentproviderkotlin" />
+            <option value="$PROJECT_DIR$/customcontentprovider" />
+            <option value="$PROJECT_DIR$/customcontentprovidersql" />
             <option value="$PROJECT_DIR$/customlistadapterkotlin" />
             <option value="$PROJECT_DIR$/customlistjava" />
             <option value="$PROJECT_DIR$/customviewjava" />
@@ -44,6 +46,7 @@
             <option value="$PROJECT_DIR$/internalstoragekotlin" />
             <option value="$PROJECT_DIR$/inttowordJava" />
             <option value="$PROJECT_DIR$/inttowordkotlin" />
+            <option value="$PROJECT_DIR$/jsconparsingkotlin" />
             <option value="$PROJECT_DIR$/keepnotekotlin" />
             <option value="$PROJECT_DIR$/linearlayouttryKotlinLogin" />
             <option value="$PROJECT_DIR$/listtryjava" />
