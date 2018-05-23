@@ -42,6 +42,7 @@
       <module fileurl="file://$PROJECT_DIR$/inttowordJava/inttowordJava.iml" filepath="$PROJECT_DIR$/inttowordJava/inttowordJava.iml" />
       <module fileurl="file://$PROJECT_DIR$/inttowordkotlin/inttowordkotlin.iml" filepath="$PROJECT_DIR$/inttowordkotlin/inttowordkotlin.iml" />
       <module fileurl="file://$PROJECT_DIR$/jsconparsingkotlin/jsconparsingkotlin.iml" filepath="$PROJECT_DIR$/jsconparsingkotlin/jsconparsingkotlin.iml" />
+      <module fileurl="file://$PROJECT_DIR$/jsonparsetrialkotlin/jsonparsetrialkotlin.iml" filepath="$PROJECT_DIR$/jsonparsetrialkotlin/jsonparsetrialkotlin.iml" />
       <module fileurl="file://$PROJECT_DIR$/keepnotekotlin/keepnotekotlin.iml" filepath="$PROJECT_DIR$/keepnotekotlin/keepnotekotlin.iml" />
       <module fileurl="file://$PROJECT_DIR$/linearlayouttryKotlinLogin/linearlayouttryKotlinLogin.iml" filepath="$PROJECT_DIR$/linearlayouttryKotlinLogin/linearlayouttryKotlinLogin.iml" />
       <module fileurl="file://$PROJECT_DIR$/listtryjava/listtryjava.iml" filepath="$PROJECT_DIR$/listtryjava/listtryjava.iml" />
@@ -63,6 +64,7 @@
       <module fileurl="file://$PROJECT_DIR$/tabbedactwtnavdrawerkotlin/tabbedactwtnavdrawerkotlin.iml" filepath="$PROJECT_DIR$/tabbedactwtnavdrawerkotlin/tabbedactwtnavdrawerkotlin.iml" />
       <module fileurl="file://$PROJECT_DIR$/viemeasurementunit/viemeasurementunit.iml" filepath="$PROJECT_DIR$/viemeasurementunit/viemeasurementunit.iml" />
       <module fileurl="file://$PROJECT_DIR$/webservicesjava/webservicesjava.iml" filepath="$PROJECT_DIR$/webservicesjava/webservicesjava.iml" />
+      <module fileurl="file://$PROJECT_DIR$/webserviceskotlin/webserviceskotlin.iml" filepath="$PROJECT_DIR$/webserviceskotlin/webserviceskotlin.iml" />
     </modules>
   </component>
 </project>

@@ -47,6 +47,7 @@
             <option value="$PROJECT_DIR$/inttowordJava" />
             <option value="$PROJECT_DIR$/inttowordkotlin" />
             <option value="$PROJECT_DIR$/jsconparsingkotlin" />
+            <option value="$PROJECT_DIR$/jsonparsetrialkotlin" />
             <option value="$PROJECT_DIR$/keepnotekotlin" />
             <option value="$PROJECT_DIR$/linearlayouttryKotlinLogin" />
             <option value="$PROJECT_DIR$/listtryjava" />
@@ -68,6 +69,7 @@
             <option value="$PROJECT_DIR$/tabbedactwtnavdrawerkotlin" />
             <option value="$PROJECT_DIR$/viemeasurementunit" />
             <option value="$PROJECT_DIR$/webservicesjava" />
+            <option value="$PROJECT_DIR$/webserviceskotlin" />
           </set>
         </option>
         <option name="resolveModulePerSourceSet" value="false" />
