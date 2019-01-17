@@ -49,6 +49,7 @@
       <module fileurl="file://$PROJECT_DIR$/listtrykotlin/listtrykotlin.iml" filepath="$PROJECT_DIR$/listtrykotlin/listtrykotlin.iml" />
       <module fileurl="file://$PROJECT_DIR$/loginJava/loginJava.iml" filepath="$PROJECT_DIR$/loginJava/loginJava.iml" />
       <module fileurl="file://$PROJECT_DIR$/loginkotlin/loginkotlin.iml" filepath="$PROJECT_DIR$/loginkotlin/loginkotlin.iml" />
+      <module fileurl="file://$PROJECT_DIR$/mapskotlin/mapskotlin.iml" filepath="$PROJECT_DIR$/mapskotlin/mapskotlin.iml" />
       <module fileurl="file://$PROJECT_DIR$/materialsample/materialsample.iml" filepath="$PROJECT_DIR$/materialsample/materialsample.iml" />
       <module fileurl="file://$PROJECT_DIR$/navdrawerkotlin/navdrawerkotlin.iml" filepath="$PROJECT_DIR$/navdrawerkotlin/navdrawerkotlin.iml" />
       <module fileurl="file://$PROJECT_DIR$/notificationjava/notificationjava.iml" filepath="$PROJECT_DIR$/notificationjava/notificationjava.iml" />

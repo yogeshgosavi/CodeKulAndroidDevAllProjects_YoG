@@ -28,7 +28,6 @@ class MainActivity : AppCompatActivity() {
             Log.i("@codekul","file is $it")
         }
 
-
     }
 
     fun store(){
